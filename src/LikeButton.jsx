@@ -21,3 +21,5 @@ export default function LikeButton() {
         
     )
 }
+
+//created like button with the Counter
